@@ -1,0 +1,6 @@
+github.com/TutorialEdge/realtime-chat-go-react v0.0.0-20190507120001-b0798364f983 h1:1vcPUd0PRJtnnshEVJm23w2lBW+NDJQubq3uBEwiPrg=
+github.com/TutorialEdge/realtime-chat-go-react v0.0.0-20190507120001-b0798364f983/go.mod h1:MCHrDOqFhaDjsPAniYT/2AoEh7utDBBahrvP6CEJ4Ro=
+github.com/gorilla/websocket v1.4.0 h1:WDFjx/TMzVgy9VdMMQi2K2Emtwi2QcUQsztZ/zLaH/Q=
+github.com/gorilla/websocket v1.4.0/go.mod h1:E7qHFY5m1UJ88s3WnNqhKjPHQ0heANvMoAMk2YaljkQ=
+github.com/gorilla/websocket v1.4.2 h1:+/TMaTYc4QFitKJxsQ7Yye35DkWvkdLcvGKqM+x0Ufc=
+github.com/gorilla/websocket v1.4.2/go.mod h1:YR8l580nyteQvAITg2hZ9XVh4b55+EU/adAjf1fMHhE=
